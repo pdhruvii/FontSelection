@@ -4,6 +4,14 @@
     color: white;
 }
 
+.boldOption {
+    font-weight:bold; 
+  }
+
+.bolderOption {
+    font-weight:900;
+  }
+  
 h1 {
     color: #DD9313;
     font-weight: 300;
