@@ -1,0 +1,101 @@
+:root{
+    /* SANS */
+    /* font-family: "Open Sans", sans-serif;*/
+    /* font-family: "Noto Sans", sans-serif; */
+    /* font-family: "Nunito Sans", sans-serif;*/
+    /* font-family: "PT Sans", sans-serif; */
+    /* font-family: "Work Sans", sans-serif; */
+    /* font-family: "DM Sans", sans-serif; */
+    /* font-family: "Fira Sans", sans-serif; */
+    /* font-family: "IBM Plex Sans", sans-serif; */
+    /* font-family: "Josefin Sans", sans-serif; */
+    /* font-family: "Plus Jakarta Sans", sans-serif; */
+    /* font-family: "Merriweather Sans", sans-serif; */
+    /* font-family: "Encode Sans Expanded", sans-serif; */
+    /* font-family: "Alegreya Sans", sans-serif; */
+    /* font-family: "Albert Sans", sans-serif; */
+    /* font-family: "Kumbh Sans", sans-serif; */
+    /* font-family: "Pontano Sans", sans-serif; */
+    /* font-family: "Martel Sans", sans-serif; */
+    /* font-family: "Sofia Sans Condensed", sans-serif; */
+    /* font-family: "Instrument Sans", sans-serif; */
+    /* font-family: "Spline Sans", sans-serif; */
+    /* font-family: "Inria Sans", sans-serif; */
+    /* font-family: "Smooch Sans", sans-serif; */
+
+    /* SERIF */
+    /* font-family: "PT Serif", serif; */
+    /* font-family: "Noto Serif", serif; */
+    /* font-family: "DM Serif Display", serif; */
+    /* font-family: "IBM Plex Serif", serif; */
+    /* font-family: "Source Serif 4", serif; */
+    /* font-family: "Roboto Serif", serif; */
+    /* font-family: "Averia Serif Libre", serif; */
+    /* font-family: "Noto Serif Display", serif; */
+    /* font-family: "Hedvig Letters Serif", serif; */
+    /* font-family: "Inria Serif", serif; */
+    font-family: "Young Serif", serif;
+
+    background-color: #0B0533;
+    color: white;
+}
+
+.boldOption {
+    font-weight:bold; 
+  }
+
+.bolderOption {
+    /*Open Sans*/
+    font-weight:900;
+    /* Nunito Sans */
+    /* font-weight:1000; */
+  }
+  
+h1 {
+    color: #DD9313;
+    font-weight: 300;
+}
+
+h2 {
+    font-weight: 400;
+}
+
+h3 {
+    font-weight: 500;
+}
+
+h4 {
+    font-weight: 600;
+}
+
+h5 {
+    font-weight: 700;
+}
+
+h6 {
+    font-weight: 800;
+}
+
+.ptag-font-weight-style1 {
+    font-weight: 300;
+}
+
+.ptag-font-weight-style2 {
+    font-weight: 400;
+}
+
+.ptag-font-weight-style3 {
+    font-weight: 500;
+}
+
+.ptag-font-weight-style4 {
+    font-weight: 600;
+}
+
+.ptag-font-weight-style5 {
+    font-weight: 700;
+}
+
+.ptag-font-weight-style6 {
+    font-weight: 800;
+}
