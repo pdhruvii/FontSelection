@@ -1,0 +1,62 @@
+:root{
+    font-family: "Nunito Sans", sans-serif;
+    background-color: #0B0533;
+    color: white;
+}
+
+.boldOption {
+    font-weight:bold; 
+  }
+
+.bolderOption {
+    font-weight:1000;
+  }
+  
+h1 {
+    color: #DD9313;
+    font-weight: 300;
+}
+
+h2 {
+    font-weight: 400;
+}
+
+h3 {
+    font-weight: 500;
+}
+
+h4 {
+    font-weight: 600;
+}
+
+h5 {
+    font-weight: 700;
+}
+
+h6 {
+    font-weight: 800;
+}
+
+.ptag-font-weight-style1 {
+    font-weight: 300;
+}
+
+.ptag-font-weight-style2 {
+    font-weight: 400;
+}
+
+.ptag-font-weight-style3 {
+    font-weight: 500;
+}
+
+.ptag-font-weight-style4 {
+    font-weight: 600;
+}
+
+.ptag-font-weight-style5 {
+    font-weight: 700;
+}
+
+.ptag-font-weight-style6 {
+    font-weight: 800;
+}
